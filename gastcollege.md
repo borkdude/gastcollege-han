@@ -1,7 +1,7 @@
 .notes landslide gastcollege.md --linenos=inline -c -r
 
 # Gastcollege Clojure @ HAN
-19-12-2013
+28-05-2013
 
 Michiel Borkent
 
@@ -12,17 +12,11 @@ Michiel Borkent
 
 * Michiel Borkent
    	- 1999 – 2005 Technische Informatica @ Universiteit Twente
-   	- 2006 - 2010 Software-ontwikkelaar (C#, F#, Delphi, ASP.NET, SAS (Business Intelligence), ...
+   	- 2006 - 2010 Software-ontwikkelaar (diverse programmeertalen)
    	- 2010-2013 Docent Informatica @ Hogeschool Utrecht
    	- 2013 - heden Software-ontwikkelaar bij [Finalist ICT](http://www.finalist.nl)
 
 ![finalist](img/logo.png)
-
-<!-- --- -->
-<!-- # Vragen of contact? -->
-<!-- * Twitter: [@borkdude](http://www.twitter.com/borkdude) -->
-<!-- * Homepagina: <http://michielborkent.nl> -->
-
 ---
 
 # Waarom vind ik FP interessant?
@@ -48,13 +42,12 @@ Michiel Borkent
 ---
 # Eigen ervaring met FP/Lisp/Clojure
 - Eerste programmeervak van mijn opleiding was in Miranda, voorloper van Haskell
-- In 2005 afstudeeropdracht Technische Informatica (2005): functioneel programmeren in Common Lisp toegepast op muzikale data
-- In 2009 Clojure ontdekt: een Lisp voor de JVM, hobbymatig
-- Zou voor mijn werk JVM nodig hebben, Clojure lag voor de hand
+- Afstudeeropdrachten op het gebied van muzikale data en functioneel programmeren (Common Lisp)
+- Vanaf 2009: Clojure hobbymatig
 - In 2011 HBO-studenten onderzoek laten doen naar verschillen software ontwikkelen in Clojure vs OO
 - In 2012 een cursus ‘Functioneel Programmeren in Clojure’ ontwikkeld,
-  inmiddels 2x gegeven (zie: <http://michielborkent.nl/clojurecursus>)
-- In 2013 bij Finalist een commercieel project gedaan met Clojure en Datomic
+  loopt voor de derde keer (zie: <http://michielborkent.nl/clojurecursus>)
+- Vanaf 2013 bij Finalist commercieel project met Clojure en Datomic
 
 ---
 # Wat is functioneel programmeren?
